@@ -1,0 +1,6 @@
+discord.py
+requests
+beautifulsoup4
+hentai
+flask
+aiohttp
